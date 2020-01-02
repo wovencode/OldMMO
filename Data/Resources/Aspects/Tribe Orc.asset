@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96b584a3721de4c0ba89c97e4b3d1fcd, type: 3}
+  m_Name: Tribe Orc
+  m_EditorClassIdentifier: 
+  title: Orc
+  description: This is the Orc Tribe.
+  icon: {fileID: 21300000, guid: 448d601d0b29b48ada07c41fe7c95f81, type: 3}
+  family: Tribe
+  actorPrefab: {fileID: 1535378113576096, guid: edd3de79441394e7c9d658afae950f73,
+    type: 2}
+  startingLocations: []

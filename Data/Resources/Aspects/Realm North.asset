@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96b584a3721de4c0ba89c97e4b3d1fcd, type: 3}
+  m_Name: Realm North
+  m_EditorClassIdentifier: 
+  title: North
+  description: This is the northern Realm.
+  icon: {fileID: 21300000, guid: b0b2d8043d114404cb9677f2f60636d3, type: 3}
+  family: Realm
+  prefab: {fileID: 0}
+  startingLocations:
+  - mapScene:
+      sceneAsset: {fileID: 102900000, guid: 33675c17d5cfc46f88593601d75b16b4, type: 3}
+      sceneName: Map North
+    position: {x: 0, y: 0, z: 0}
